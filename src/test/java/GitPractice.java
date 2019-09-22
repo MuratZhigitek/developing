@@ -7,5 +7,10 @@ public class GitPractice {
         System.out.println("Git Practice2 with Kuba Baike");
 
         System.out.println("Git Practice 3");
+        
+        
+        
+        System.out.println("Git Practice 5");
+        
     }
 }
