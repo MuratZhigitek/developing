@@ -17,5 +17,7 @@ public class GitPractice {
         System.out.println("Git Practice 7");
         System.out.println("Git Practice 8");
            System.out.println("Git Practice 11");
+        System.out.println("Git Practice 26");
+        System.out.println("Git Practice 27");
     }
 }
