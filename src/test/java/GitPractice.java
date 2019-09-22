@@ -10,7 +10,7 @@ public class GitPractice {
         
         
         
-        System.out.println("Git Practice 5");
+        System.out.println("Git Practice 6");
         
     }
 }
